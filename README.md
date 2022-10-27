@@ -6,8 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## Project Title
 
-Here is a simple website that demonstrates how a payment gateway can be integrated.
-
+A simple blood donation webiste to demonstarte the implementation of RazorPay payment gateway integration.
 
 ## Built with
 
@@ -17,8 +16,6 @@ Here is a simple website that demonstrates how a payment gateway can be integrat
 - Simple Static website
 - Integrated with Razorpay
 
-
-
 ## Screenshots
 
 Preview/screenshots of this project can be found in the [Screenshots](https://github.com/TheAlchemist75/Online-Banking-System/tree/main/Screenshots) branch.
@@ -26,8 +23,7 @@ Preview/screenshots of this project can be found in the [Screenshots](https://gi
 
 https://thealchemist75.github.io/blooddonation.github.io/
 
-Ps: The website is not fully optimized for mobile yet, please open this link in your PC for optimal experience. Stay tuned!
-
+Note: The website is not fully optimized for mobile yet, please open this link in your PC for optimal experience. Stay tuned!
 
 ## Links
 
