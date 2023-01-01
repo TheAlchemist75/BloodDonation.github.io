@@ -23,7 +23,7 @@ Preview/screenshots of this project can be found in the [Screenshots](https://gi
 
 https://thealchemist75.github.io/blooddonation.github.io/
 
-Note: The website is not fully optimized for mobile yet, please open this link in your PC for optimal experience. Stay tuned!
+Note: This website is not fully mobile responsive _yet_, please open this link in your PC for optimal experience. Stay tuned!
 
 ## Links
 
