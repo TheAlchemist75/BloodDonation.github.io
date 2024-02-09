@@ -18,7 +18,7 @@ A simple blood donation website to demonstrate the implementation of RazorPay pa
 
 ## Screenshots
 
-Preview/screenshots of this project can be found in the [Screenshots](https://github.com/TheAlchemist75/Online-Banking-System/tree/main/Screenshots) branch.
+Preview/screenshots of this project can be found in the [Screenshots](https://github.com/TheAlchemist75/blooddonation.github.io/tree/main/Screenshots) branch.
 ## Demo
 
 https://thealchemist75.github.io/blooddonation.github.io/
