@@ -19,12 +19,12 @@ A simple blood donation website to demonstrate the implementation of RazorPay pa
 ## Screenshots
 
 Preview/screenshots of this project can be found in the [Screenshots](https://github.com/TheAlchemist75/blooddonation.github.io/tree/main/Screenshots) branch.
-## Demo
+<!--## Demo
 
 https://thealchemist75.github.io/blooddonation.github.io/
 
 Note: This website is not fully mobile responsive _yet_, please open this link in your PC for optimal experience. Stay tuned!
-
+-->
 ## Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-manur-629006194/)
